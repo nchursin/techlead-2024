@@ -11,7 +11,7 @@
 Для работы нужен `pipenv`
 
 1. Установи зависимости: `pipenv install --dev`
-1. Тест пишем в `src/account/account_test.py`
-1. Код пишем в `src/account/account.py`
+1. Тест пишем в `src/account_test.py`
+1. Код пишем в `src/account.py`
 
 В зависимостях есть `pytest`, проще всего использовать его
