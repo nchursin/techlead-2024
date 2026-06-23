@@ -6,8 +6,8 @@
 1. Дальнейшие инструкции в ветке
 
 ### Ветки
-1. Python - ветка `python`
-1. Go - ветка `golang`
-1. Java - ветка `java`
-1. Tyoescript - ветка `typescript`
-1. C# - ветка `c-sharp`
+1. Python - папка `python` (либо ветка `python`)
+1. Go - папка `go` (либо ветка `go`)
+1. Java - папка `java` (либо ветка `java`)
+1. Tyoescript - папка `typescript` (либо ветка `typescript`)
+1. C# - папка `c-sharp` (либо ветка `c-sharp`)
